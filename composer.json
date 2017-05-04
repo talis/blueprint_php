@@ -1,19 +1,20 @@
 {
-    "name": "YOUR_GIT_USR_ID/YOUR_GIT_REPO_ID",
+    "name": "talis/blueprint_php",
     "version": "1.0.0",
-    "description": "",
+    "description": "Swagger generated blueprint php client",
     "keywords": [
         "swagger",
         "php",
         "sdk",
-        "api"
+        "api",
+        "blueprint"
     ],
-    "homepage": "http://swagger.io",
-    "license": "Apache v2",
+    "homepage": "http://talis.com",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Swagger and contributors",
-            "homepage": "https://github.com/swagger-api/swagger-codegen"
+            "name": "Talis Education Ltd",
+            "homepage": "http://talis.com"
         }
     ],
     "require": {
